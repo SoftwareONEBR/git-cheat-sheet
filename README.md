@@ -116,3 +116,6 @@ Atualiza o repositório local com o último commit do repositório remoto.
 ### 8.2. **`git push`**
 
 Faz o “upload” das alterações dos arquivos locais para o repositório remoto.
+
+
+Produzido com :redheart: por Lucas Souza
