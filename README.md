@@ -118,4 +118,4 @@ Atualiza o repositório local com o último commit do repositório remoto.
 Faz o “upload” das alterações dos arquivos locais para o repositório remoto.
 
 
-Produzido com :redheart: por Lucas Souza
+Produzido com :heart: por Lucas Souza
