@@ -117,5 +117,6 @@ Atualiza o repositório local com o último commit do repositório remoto.
 
 Faz o “upload” das alterações dos arquivos locais para o repositório remoto.
 
+---
 
-Produzido com :heart: por Lucas Souza
+<sub>Produzido com :heart: por Lucas Souza</sub>
